@@ -13,6 +13,9 @@ Questa repository è stata creata per raccogliere tutte le risorse e informazion
 ## Risorse per imparare il protocollo git
 * https://git-scm.com/book/it/v1
 
+## Tutorial su Slack
+* https://www.youtube.com/watch?v=cX-0KBxQJWM
+
 ## Link da avere sempre sotto il naso:
 * http://developer.android.com/
 * https://stackoverflow.com
