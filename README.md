@@ -10,6 +10,9 @@ Questa repository è stata creata per raccogliere tutte le risorse e informazion
 ## 1° AMA (Inglese)
 * https://docs.google.com/document/d/1NBqZZ_3zMLZUYyJe7-p1kgYG3WanUCNH2ctOIPLnB9I/edit
 
+## Risorse per imparare il protocollo git
+* https://git-scm.com/book/it/v1
+
 ## Link da avere sempre sotto il naso:
 * http://developer.android.com/
 * https://stackoverflow.com
