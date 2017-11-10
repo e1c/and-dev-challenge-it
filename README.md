@@ -16,6 +16,9 @@ Questa repository è stata creata per raccogliere tutte le risorse e informazion
 ## Tutorial su Slack
 * https://www.youtube.com/watch?v=cX-0KBxQJWM
 
+## Guida programmazione Android Completa
+* http://www.sprik.it/guida-programmazione-android-completa/
+
 ## Link da avere sempre sotto il naso:
 * http://developer.android.com/
 * https://stackoverflow.com
