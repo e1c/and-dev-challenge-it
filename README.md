@@ -1,6 +1,9 @@
 # Risorse utili per il Google Challenge Scolarship: Android Developer
 Questa repository è stata creata per raccogliere tutte le risorse e informazioni utili in lingua **Italiana** che sono d'aiuto per il corso. Verrà aggiornata in base alle proposte che si trovano sul canale Slack e sul forum ufficiale.
 
+### Le risorse in lingua inglese le trovi [qui](https://github.com/e1c/and-dev-challenge-it/blob/master/english-resources.md)
+### Se cerchi dei tutorial li trovi [qui](https://github.com/e1c/and-dev-challenge-it/blob/master/tutorial.md)
+
 ## Link gruppo slack
 * https://anddev-challenge.slack.com
 
