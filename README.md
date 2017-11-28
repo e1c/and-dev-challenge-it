@@ -3,6 +3,7 @@ Questa repository è stata creata per raccogliere tutte le risorse e informazion
 
 ### Le risorse in lingua inglese le trovi [qui](https://github.com/e1c/and-dev-challenge-it/blob/master/english-resources.md)
 ### Se cerchi dei tutorial li trovi [qui](https://github.com/e1c/and-dev-challenge-it/blob/master/tutorial.md)
+### Se cerchi dei tool li trovi [qui](https://github.com/e1c/and-dev-challenge-it/blob/master/tools.md)
 
 ## Link gruppo slack
 * https://anddev-challenge.slack.com
